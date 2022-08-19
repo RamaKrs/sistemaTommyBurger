@@ -1,0 +1,35 @@
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\bin\Debug\TommysBurger.exe
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\bin\Debug\TommysBurger.pdb
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\bin\Debug\TommysBurger.xml
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form1.resources
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Resources.resources
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.vbproj.GenerateResource.Cache
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.exe
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.xml
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.pdb
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form2.resources
+C:\Users\iubal\Desktop\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form4.resources
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.exe
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.xml
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.pdb
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\bin\Debug\TommysBurger.exe
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\bin\Debug\TommysBurger.pdb
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\bin\Debug\TommysBurger.xml
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form1.resources
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form2.resources
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form4.resources
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Resources.resources
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.vbproj.GenerateResource.Cache
+C:\Users\iubal\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form3.resources
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.exe
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.xml
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.pdb
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\bin\Debug\TommysBurger.exe
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\bin\Debug\TommysBurger.pdb
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\bin\Debug\TommysBurger.xml
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form1.resources
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form2.resources
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form3.resources
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Form4.resources
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.Resources.resources
+C:\Users\ramir\Desktop\Tp Tommy burger\TommysBurger\TommysBurger\obj\x86\Debug\TommysBurger.vbproj.GenerateResource.Cache
